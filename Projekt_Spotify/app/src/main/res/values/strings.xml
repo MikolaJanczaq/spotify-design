@@ -7,7 +7,7 @@
     <string name="album_title_marmur">Marmur</string>
     <string name="artist_name_quebonafide">Quebonafide</string>
     <string name="artist_name_taco">Taco Hemingway</string>
-    <string name="artist_name_asap">A$AP ROCKy</string>
+    <string name="artist_name_asap">A$AP ROCKY</string>
     <string name="album_title_utopia">UTOPIA</string>
     <string name="album_title_irl">in real life</string>
     <string name="artist_name_kendrick">Kendrick Lamar</string>
@@ -28,4 +28,14 @@
     <string name="music_name_sundress">Sundress</string>
     <string name="content_description">Coś</string>
     <string name="title_ostatnio_odtwarzane">Recently played</string>
+    <string name="button_title_clear_history">Clear search history</string>
+    <string name="album_title_pocztowka_z_wwa">POCZTÓWKA Z WWA, lato \'19</string>
+    <string name="last_search">Last search</string>
+    <string name="album_title"><![CDATA[Mr. Morale & the Big Steppers]]></string>
+    <string name="album_title_swimming">Swimming</string>
+    <string name="album_title_dark_fantasy">My Beautiful Dark Twisted Fantasy</string>
+    <string name="artist_name_bambi">bambi</string>
+    <string name="album_title_live_love">Live. Love. A$AP</string>
+    <string name="music_name_famous">Famous</string>
+    <string name="music_name_ile_moglem">Ile mogłem</string>
 </resources>

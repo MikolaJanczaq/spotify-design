@@ -3,7 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_search">Search</string>
     <string name="title_library">Library</string>
-    <string name="album_title_pocztowka">POCZTÓWKA Z WWA, LATO \'19</string>
+    <string name="album_title_pocztowka">POCZTÓWKA</string>
     <string name="album_title_marmur">Marmur</string>
     <string name="artist_name_quebonafide">Quebonafide</string>
     <string name="artist_name_taco">Taco Hemingway</string>
@@ -11,4 +11,21 @@
     <string name="album_title_utopia">UTOPIA</string>
     <string name="album_title_irl">in real life</string>
     <string name="artist_name_kendrick">Kendrick Lamar</string>
+    <string name="music_name_main_stage">Main Stage Freestyle</string>
+    <string name="music_title_main">Main Stage</string>
+    <string name="artist_name_taco2">Taco</string>
+    <string name="music_name_goosebumps">goosebumps</string>
+    <string name="artist_name_travis_scot2">Travis</string>
+    <string name="type_single">Single</string>
+    <string name="song_title_spins">The spins</string>
+    <string name="song_name_runaway">Runaway</string>
+    <string name="song_title_selfcare">Selfcare</string>
+    <string name="album_title_ye">ye</string>
+    <string name="song_name_alright">Alright</string>
+    <string name="album_title_1800_oswiecenie">1-800</string>
+    <string name="type_album">Album</string>
+    <string name="album_title_pgs">PG$</string>
+    <string name="music_name_sundress">Sundress</string>
+    <string name="content_description">Coś</string>
+    <string name="title_ostatnio_odtwarzane">Recently played</string>
 </resources>

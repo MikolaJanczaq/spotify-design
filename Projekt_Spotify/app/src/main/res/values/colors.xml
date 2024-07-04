@@ -3,10 +3,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="tile_background" />
-    <color name="tile_background_color">#2F2D2D</color>
-    <color name="text_color">#DBDBDB</color>
-    <color name="text_color_secondary">#9B9B9B</color>
-    <color name="background_color">#141414</color>
-    <color name="search_color">#282828</color>
-    <color name="button_color">#173717</color>
+    <color name="tile_background_color">#d1e0d2</color>
+    <color name="text_color">#151617</color>
+    <color name="text_color_secondary">#3b3b3b</color>
+    <color name="background_color">#b3b6ba</color>
+    <color name="search_color">#6da17a</color>
+    <color name="button_color">#009425</color>
+    <color name="playing_bar">#588D4E</color>
+    <color name="switch_color">#64fa89</color>
 </resources>

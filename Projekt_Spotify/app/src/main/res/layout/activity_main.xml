@@ -19,6 +19,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="135dp"
+        android:layout_height="67dp"
+        android:layout_marginStart="200dp"
+        android:text="@string/theme_title"
+        android:drawableLeft="@drawable/baseline_sunny_24"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView5"
+        app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -638,7 +650,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above = "@+id/nav_view"
-        android:id="@+id/container" />
+        android:id="@+id/container" >
+
+    </FrameLayout>
+
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/nav_view"
         android:layout_width="0dp"

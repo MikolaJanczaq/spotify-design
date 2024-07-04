@@ -8,4 +8,5 @@
     <color name="text_color_secondary">#9B9B9B</color>
     <color name="background_color">#141414</color>
     <color name="search_color">#282828</color>
+    <color name="button_color">#173717</color>
 </resources>

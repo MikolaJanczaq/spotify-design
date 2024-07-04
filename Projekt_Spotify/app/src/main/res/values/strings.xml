@@ -38,4 +38,16 @@
     <string name="album_title_live_love">Live. Love. A$AP</string>
     <string name="music_name_famous">Famous</string>
     <string name="music_name_ile_moglem">Ile mogłem</string>
+    <string name="artist_name_kuban">Kuban</string>
+    <string name="button_follow">Follow</string>
+    <string name="monthly_listeners">958 436 monthly listeners</string>
+    <string name="verified">Verified artist\n</string>
+    <string name="title_popular">Popular</string>
+    <string name="music_name_hill_bomb">HILL BOMB</string>
+    <string name="music_name_na_okraglo">na okrągło</string>
+    <string name="music_name_zmartwienia">same zmartwienia</string>
+    <string name="music_name_jak_gdyby">Jak gdyby nic</string>
+    <string name="music_name_magister">magister sztuki</string>
+    <string name="Follow">Follow</string>
+    <string name="Unfollow">Unfollow</string>
 </resources>

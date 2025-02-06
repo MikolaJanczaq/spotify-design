@@ -1,2 +1,2 @@
 # Spotify
-Projekt na zaliczenie przedmiotu Aplikacje Mobilne. Klon Spotify
+Spotify look alike app design in Android Studio
